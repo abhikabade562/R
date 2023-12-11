@@ -1,0 +1,15 @@
+Day,Direction,WaterLevel,ToFill,Value
+1,Up,Below,No,false
+2,Up,Above,No,false
+3,Up,Below,Yes,true
+4,Up,Below,Yes,true
+5,Down,Below,Yes,true
+6,Down,Above,No,false
+7,Down,Above,Yes,true
+8,Up,Below,No,false
+9,Down,Below,Yes,true
+10,Down,Below,Yes,true
+11,Down,Above,Yes,true
+12,Up,Above,Yes,true
+13,Down,Below,Yes,true
+14,Up,Above,No,false
